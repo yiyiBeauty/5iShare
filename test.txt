@@ -1,0 +1,14 @@
+<html>
+<head><title>5i感悟</title></head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script src="http://www.5igame.cc/javascripts/jquery.min.js"></script>
+<script type="text/javascript">
+	$(function(){
+		alert('haa');
+	});
+</script>
+<body>
+
+</body>
+
+</html>
