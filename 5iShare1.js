@@ -1,5 +1,6 @@
 ﻿
 var contentConfig = {
+    'htmlTitle':'一位老人的九句话，亿万人疯传',
     'baseTimes': 15205231,
     'shareSpeed': 10,
     'logoUrl':'http://img.blog.csdn.net/20141025001610156?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdmVnZXJqaWFuZ3Npcg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center',
