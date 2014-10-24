@@ -3,7 +3,7 @@ var contentConfig = {
     'htmlTitle':'白酒+啤酒=自杀！赶快告诉你的盆友们吧！',
     'baseTimes': 36421,
     'shareSpeed': 3,
-    'logoUrl':'http://img.blog.csdn.net/20141025001610156?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdmVnZXJqaWFuZ3Npcg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center',
+    'logoUrl':'http://img.blog.csdn.net/20141025012122057?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdmVnZXJqaWFuZ3Npcg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center',
     'sharedDescContent':'很多人都有类似的经历，平时单喝白酒没有问题、啤酒也没有问题，但是只要两种酒一混喝就容易醉了。',
     'sharedTitle':'白酒+啤酒=自杀！，已经有sharedTimes位盆友这么说了。',
     'sharedTimeLineTitle':'白酒+啤酒=自杀！，已经有sharedTimes位盆友这么说了。',
