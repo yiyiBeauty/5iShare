@@ -2,7 +2,7 @@
 var contentConfig = {
     'baseTimes': 15205231,
     'shareSpeed': 10,
-    'logoUrl':'http://a2.qpic.cn/psb?/V12q4Xj21WpBVw/kfNRATq5QnAbmDiF7Gc6uhhaktn2MUOSneEYpa2d7lc!/b/dNLUQVjxEgAA&bo=eAB4AAAAAAABByA!&rf=viewer_4',
+    'logoUrl':'http://img.blog.csdn.net/20141025001610156?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdmVnZXJqaWFuZ3Npcg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center',
     'sharedDescContent':'1：不要奢望别人给你经济上的任何帮助，钱对任何人都是不够用的 （学会给与）',
     'sharedTitle':'一位老人的九句话，疯传了sharedTimes次',
     'sharedTimeLineTitle':'一位老人的九句话，疯传了sharedTimes次',
