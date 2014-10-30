@@ -1,7 +1,6 @@
 
 var contentConfig = {
-    'htmlTitle':'上层人士中层人士底
-	层人士',
+    'htmlTitle':'上层人士中层人士底层人士',
     'baseTimes': 10821,
     'shareSpeed': 0.1,
     'logoUrl':'http://img.blog.csdn.net/20141030192459850',
